@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Car Purchase Utility App</string>
+    <string name="enter_customer_id">Enter Customer Id</string>
+    <string name="enter_car_type">Enter Car Type</string>
+
+    <string-array name="carTypes">
+        <item>Toyota</item>
+        <item>Maruti</item>
+        <item>Hyundai</item>
+    </string-array>
+</resources>
